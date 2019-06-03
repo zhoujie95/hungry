@@ -10,8 +10,10 @@
 	},
 	"miniprogramRoot": "dist/wx/",
 	"compileType": "miniprogram",
-	"appid": "wx6d4ab8a9df77feb1",
+	"appid": "wxd653e7d5a6b00be0",
 	"projectname": "ele",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
@@ -21,13 +23,25 @@
 			"current": -1,
 			"list": []
 		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
 		"game": {
 			"currentL": -1,
 			"list": []
 		},
 		"miniprogram": {
 			"current": -1,
-			"list": []
+			"list": [
+				{
+					"id": -1,
+					"name": "订单",
+					"pathName": "pages/tab/order/main",
+					"query": "",
+					"scene": null
+				}
+			]
 		}
 	}
 }
