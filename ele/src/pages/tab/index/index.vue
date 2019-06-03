@@ -18,7 +18,7 @@ export default {
   },
   mounted() {
     console.log('this.list...', this.list);
-    console.log("hahahh")
+
     this.getCateList();
   },
 }
